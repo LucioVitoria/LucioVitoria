@@ -5,7 +5,10 @@ Estudante no programa ONE - Oracle Next Education
 [![(LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devluciojunior/)
 [![(Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luciusjunior_/)
 
-![LucioVitoria GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioVitoria&show_icons=true&theme=dracula) 
+
+<div Style="display: inline_block"><br/>
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+</div><br/>
 
 <div Style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
